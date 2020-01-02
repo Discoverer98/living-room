@@ -1,1 +1,1 @@
-Sample code for the technique of using an auxiliary class to pass parameters to an Activity in Android.
+Sample app for the idiom of using a static inner class to pass parameters to an Activity in Android. This code is used as an example on an article in Medium that you can read [here](https://medium.com/swlh/android-an-idiom-for-activity-parameters-73198a5b7355).
